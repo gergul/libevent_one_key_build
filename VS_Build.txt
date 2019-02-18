@@ -1,0 +1,3 @@
+打开vs命令行
+nmake /f Makefile.nmake
+
